@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Review changes since last commit and write results to a file named REVIEW.md inside planning directory"
+          }
+        ]
+      }
+    ]
+  }
+}
